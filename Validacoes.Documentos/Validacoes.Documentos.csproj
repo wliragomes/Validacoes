@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <TargetFramework>net9.0</TargetFramework>
+      <ImplicitUsings>enable</ImplicitUsings>
+      <Nullable>enable</Nullable>
+      <PackageId>Validacoes.Documentos</PackageId>
+      <Version>1.0.0</Version>
+      <Authors>Washington Gomes</Authors>
+      <Company>Washington</Company>
+      <Description>Biblioteca para validação de CPF e CNPJ</Description>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <RepositoryUrl>https://github.com/seuusuario/seurepositorio</RepositoryUrl> <!-- depois trocamos -->
+  </PropertyGroup>
+
+</Project>

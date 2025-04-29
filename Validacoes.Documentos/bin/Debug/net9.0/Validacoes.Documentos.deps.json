@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Validacoes.Documentos/1.0.0": {
+        "runtime": {
+          "Validacoes.Documentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validacoes.Documentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

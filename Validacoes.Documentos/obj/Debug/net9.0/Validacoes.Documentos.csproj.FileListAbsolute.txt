@@ -1,0 +1,11 @@
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\bin\Debug\net9.0\Validacoes.Documentos.deps.json
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\bin\Debug\net9.0\Validacoes.Documentos.dll
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\bin\Debug\net9.0\Validacoes.Documentos.pdb
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.AssemblyInfoInputs.cache
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.AssemblyInfo.cs
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.csproj.CoreCompileInputs.cache
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.dll
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\refint\Validacoes.Documentos.dll
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\Validacoes.Documentos.pdb
+C:\Users\wlira\source\repos\Validacoes\Validacoes.Documentos\obj\Debug\net9.0\ref\Validacoes.Documentos.dll
